@@ -2,7 +2,6 @@
 $title = 'Обучение PHP';
 $h1 = 'GB обучение PHP';
 $date = date("Y");
-
 $html = <<<php
     <!doctype html>
     <html lang="en">
