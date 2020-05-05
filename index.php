@@ -17,7 +17,9 @@ $html = <<<php
         
     </head>
     <body>
-    
+     <footer>
+     <p>Copyright © {$date}</p>
+     </footer>
     </body>
     </html>
 
