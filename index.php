@@ -2,7 +2,11 @@
 $title = 'Обучение PHP';
 $h1 = 'GB обучение PHP';
 $date = date("Y");
+$a = 1;
+$b = 2;
 
+$b = $b - $a;
+$a = $a +$b;
 $html = <<<php
     <!doctype html>
     <html lang="en">
